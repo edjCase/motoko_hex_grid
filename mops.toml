@@ -1,12 +1,13 @@
 [dependencies]
 base = "0.11.3"
+itertools = "0.2.1"
 
 [package]
-name = "dao-proposal-engine"
+name = "hex-grid"
 version = "0.1.0"
-description = "A library for creating, voting on and executing proposals"
-repository = "https://github.com/edjcase/motoko_proposal_engine"
-keywords = [ "dao", "proposal", "proposals", "vote", "voting" ]
+description = "A library for hex grid building"
+repository = "https://github.com/edjcase/motoko_hex_grid"
+keywords = [ "hex", "grid" ]
 license = "MIT"
 
 [dev-dependencies]
